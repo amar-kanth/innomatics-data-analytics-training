@@ -22,4 +22,3 @@ This repository documents my complete journey at **Innomatics Research Labs**, c
 
 ---
 
-## 🗂 Folder Structure
