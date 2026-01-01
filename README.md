@@ -22,3 +22,8 @@ This repository documents my complete journey at **Innomatics Research Labs**, c
 
 ---
 
+## Authors
+-[@amar-kanth](https://github.com/amar-kanth)
+## License
+
+[MIT License](LICENSE)
